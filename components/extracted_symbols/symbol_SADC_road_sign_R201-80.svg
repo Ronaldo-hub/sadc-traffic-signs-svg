@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 455 356" width="455" height="356">
+  <g transform="translate(-222.9 -272.4)">
+    <g transform="matrix(1 0 0 1 -3168.707 9715.833)">
+      <rect ry="92.5" rx="92.500015" y="-9428.4336" x="3646.6069" height="326" width="185" id="rect13386" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g transform="matrix(1 0 0 1 -3168.707 9715.833)">
+      <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect13388" width="75.800003" height="216.8" x="3701.207" y="-9373.834" rx="37.899994" ry="37.900002" />
+    </g>
+    <g transform="matrix(1 0 0 1 -3168.707 9715.833)">
+      <circle style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path4186" cx="3502.6069" cy="-9199.9336" r="96" />
+    </g>
+    <g transform="matrix(1 0 0 1 -3168.707 9715.833)">
+      <circle r="91" cy="-9335.7334" cx="3502.6069" id="circle4188" style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g transform="matrix(1 0 0 1 -3168.707 9715.833)">
+      <circle style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle4245" cx="3502.6069" cy="-9335.7334" r="44" />
+    </g>
+    <g transform="matrix(1 0 0 1 -3168.707 9715.833)">
+      <circle r="49.5" cy="-9199.9336" cx="3502.6069" id="circle4265" style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

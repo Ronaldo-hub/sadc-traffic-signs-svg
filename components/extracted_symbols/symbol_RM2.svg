@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184 64" width="184" height="64">
+  <g transform="translate(-58 -193)">
+    <g style="fill:none;stroke:#5a5d64;stroke-width:4;stroke-linecap:round;stroke-linejoin:round">
+      <polyline points="75,220 83,210 91,220" />
+    </g>
+    <g style="fill:none;stroke:#5a5d64;stroke-width:4;stroke-linecap:round;stroke-linejoin:round">
+      <polyline points="209,230 217,240 225,230" />
+    </g>
+  </g>
+</svg>

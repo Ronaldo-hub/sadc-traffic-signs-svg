@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199.386 176.692" width="199.386" height="176.692">
+  <g transform="translate(-14.634 -18.178)">
+    <g transform="matrix(1 0 0 1 -29.528 -77.336)">
+      <path style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:13.22916603;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 143.85435,110.51424 -84.69289,146.69241 169.38573,-2e-5 z" id="rect5050" />
+    </g>
+    <g transform="matrix(1 0 0 1 -29.528 -77.336)">
+      <circle style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38537136" id="path8802" cx="143.85429" cy="239.08269" r="8.8635416" />
+    </g>
+    <g transform="matrix(1 0 0 1 -29.528 -77.336)">
+      <path id="path8766" d="m 143.85436,223.49883 c 3.07414,0 5.63638,-2.35794 5.89839,-5.4277 l 5.94172,-66.74526 c 0,-6.54948 -5.30087,-11.85873 -11.84011,-11.85873 -6.53926,0 -11.84011,5.30925 -11.84011,11.85873 l 5.94167,66.74526 c 0.26201,3.06976 2.82433,5.4277 5.89844,5.4277 z" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3819387" />
+    </g>
+  </g>
+</svg>

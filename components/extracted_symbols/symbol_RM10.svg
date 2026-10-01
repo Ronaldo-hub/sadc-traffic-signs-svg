@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 230" width="230" height="230">
+  <g transform="translate(15 15)">
+    <g>
+      <rect x="180" y="0" width="20" height="200" fill="#00A651" />
+    </g>
+    <g>
+      <rect x="166" y="0" width="14" height="200" fill="#000000" />
+    </g>
+    <g>
+      <path d="M 0,0 L 75,0 C 75,35 50,50 0,50 Z" fill="#00A651" />
+    </g>
+    <g>
+      <path d="M 0,200 L 85,200 C 85,150 50,150 0,150 Z" fill="#00A651" />
+    </g>
+    <g>
+      <rect x="0" y="50" width="30" height="100" fill="#606063" />
+    </g>
+    <g>
+      <rect x="115" y="10" width="8" height="35" fill="#FFFFFF" />
+    </g>
+    <g>
+      <rect x="115" y="155" width="8" height="35" fill="#FFFFFF" />
+    </g>
+    <g>
+      <polygon points="135,20 148,40 122,40" fill="#1A1A1A" />
+    </g>
+    <g>
+      <polygon points="90,180 77,160 103,160" fill="#1A1A1A" />
+    </g>
+    <g style="stroke:#FFF100;stroke-width:3;stroke-linecap:square;fill:none">
+      <rect x="60" y="52" width="42" height="96" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 480" width="96" height="480">
+  <g transform="translate(15 15)">
+    <g>
+      <rect x="0" y="0" width="40" height="450" fill="#7a8b8e" />
+    </g>
+    <g>
+      <rect x="40" y="0" width="8" height="450" fill="#cbd5e1" filter="url(#curb-shadow)" />
+    </g>
+    <g>
+      <rect x="48" y="0" width="18" height="450" fill="#ffcc00" />
+    </g>
+  </g>
+</svg>

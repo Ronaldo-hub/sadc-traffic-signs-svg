@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 552 351" width="552" height="351">
+  <g transform="translate(-178.4 -278.9)">
+    <g transform="matrix(1 0 0 1 -4.4 -139.162)">
+      <rect ry="91.5" rx="91.499992" y="433.06232" x="359.04996" height="321" width="183" id="rect13386" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g transform="matrix(1 0 0 1 -4.4 -139.162)">
+      <rect style="opacity:1;fill:#00559b;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect13388" width="75" height="213" x="413.04996" y="487.06232" rx="37.499996" ry="37.5" />
+    </g>
+    <g transform="matrix(1 0 0 1 -4.4 -139.162)">
+      <path style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 287.61963,751.36201 -54.6368,0 0,-249.84315 -35.1829,26.34075 0,-57.2718 44.9143,-33.6258 44.9054,0 z" id="path13417" />
+    </g>
+    <g transform="matrix(1 0 0 1 -4.4 -139.162)">
+      <path id="path13430" d="m 639.29774,436.96201 0,67.0851 -22.1382,0 0,46.9596 22.1382,0 0,147.58725 c 0,29.7321 23.93597,53.66805 53.66807,53.66805 l 26.834,0 0,-46.9596 -26.834,0 c -3.7165,0 -6.7084,-2.9919 -6.7084,-6.70845 l 0,-147.58725 32.2006,0 0,-46.9596 -32.2006,0 0,-67.0851 z" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

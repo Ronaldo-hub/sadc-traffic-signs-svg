@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 510 430" width="510" height="430">
+  <g transform="translate(-195 -95)">
+    <g transform="matrix(1 0 0 1 0 303)">
+      <path style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.56129503;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:21.31999969;stroke-opacity:1;paint-order:stroke fill markers" d="m 305.99983,-193.0004 v 176.000111 h 80.00028 L 320.15813,205.27764 353.02228,207 419.3743,-17.000289 h 14.62546 V 158.99982 h 32.00012 V -17.000289 h 14.62598 l 60.3989,203.902809 32.86413,-1.72236 -59.88883,-202.180449 h 79.99976 l 95.99983,-16.00006 V -177.00034 L 593.99982,-193.0004 Z M 210,-113.00011 v 16.000051 h 39.99963 v -16.000051 z m 47.99966,0 v 16.000051 h 40.00014 v -16.000051 z" id="rect815-7" />
+    </g>
+    <g transform="matrix(1 0 0 1 0 303)">
+      <circle style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.51100826;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:21.31999969;stroke-opacity:1;paint-order:stroke fill markers" id="path818" cx="393.99982" cy="-105.00003" r="64" />
+    </g>
+    <g transform="matrix(1 0 0 1 0 303)">
+      <path style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.66784334;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:21.31999969;stroke-opacity:1;paint-order:stroke fill markers" d="m 297.9998,-88.999819 -39.99963,14.55881 v 17.02686 l 39.99963,-14.5588 z M 250.00014,-71.529049 210,-56.970249 v 17.02635 l 40.00014,-14.5588 z" id="rect2047" />
+    </g>
+    <g transform="matrix(1 0 0 1 0 303)">
+      <path id="path2061" d="m 297.9998,-121.0004 -39.99963,-14.5588 v -17.02687 l 39.99963,14.5588 z M 250.00014,-138.47116 210,-153.02997 v -17.02634 l 40.00014,14.5588 z" style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.66784334;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:21.31999969;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+  </g>
+</svg>
