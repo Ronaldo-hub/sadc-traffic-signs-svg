@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" width="100%" height="100%">
+  <!-- Main Asphalt Road Surface -->
+  <rect x="0" y="0" width="300" height="450" fill="#1e1e24" />
+
+  <!-- Asphalt Texture Overlay -->
+  <pattern id="asphalt-grain" width="10" height="10" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.03"/>
+    <circle cx="7" cy="6" r="1" fill="#ffffff" opacity="0.02"/>
+  </pattern>
+  <rect x="0" y="0" width="300" height="450" fill="url(#asphalt-grain)" />
+
+  <!-- Left Road Edge / Shoulder Line (Solid White) -->
+  <line x1="25" y1="0" x2="25" y2="450" stroke="#ffffff" stroke-width="6" />
+
+  <!-- Double Solid White Center Lines (RM2 - No Overtaking / No Crossing) -->
+  <line x1="142" y1="0" x2="142" y2="450" stroke="#ffffff" stroke-width="6" />
+  <line x1="158" y1="0" x2="158" y2="450" stroke="#ffffff" stroke-width="6" />
+
+  <!-- Right Road Edge / Shoulder Line (Solid White) -->
+  <line x1="275" y1="0" x2="275" y2="450" stroke="#ffffff" stroke-width="6" />
+
+  <!-- Directional Traffic Flow Arrows (Subtle Lane Indicators) -->
+  <g fill="none" stroke="#5a5d64" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Left Lane Upward Arrow -->
+    <line x1="83" y1="240" x2="83" y2="210" />
+    <polyline points="75,220 83,210 91,220" />
+
+    <!-- Right Lane Downward Arrow -->
+    <line x1="217" y1="210" x2="217" y2="240" />
+    <polyline points="209,230 217,240 225,230" />
+  </g>
+</svg>

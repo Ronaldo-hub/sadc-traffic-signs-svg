@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" width="100%" height="100%">
+  <defs>
+    <!-- Subtle drop shadow for the curb edge -->
+    <filter id="curb-shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="3" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <!-- Sidewalk / Verge Background -->
+  <rect x="0" y="0" width="40" height="450" fill="#7a8b8e" />
+
+  <!-- Curb Edge Line -->
+  <rect x="40" y="0" width="8" height="450" fill="#cbd5e1" filter="url(#curb-shadow)" />
+
+  <!-- Main Asphalt Road Surface -->
+  <rect x="48" y="0" width="252" height="450" fill="#1e1e24" />
+
+  <!-- Asphalt Texture Overlay (Subtle Granularity) -->
+  <pattern id="asphalt-grain" width="10" height="10" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.03"/>
+    <circle cx="7" cy="6" r="1" fill="#ffffff" opacity="0.02"/>
+  </pattern>
+  <rect x="48" y="0" width="252" height="450" fill="url(#asphalt-grain)" />
+
+  <!-- Solid Yellow No-Parking Line (RM202) -->
+  <rect x="48" y="0" width="18" height="450" fill="#ffcc00" />
+
+  <!-- Center Dashed Lane Divider -->
+  <line x1="180" y1="0" x2="180" y2="450" stroke="#4a4d52" stroke-width="4" stroke-dasharray="30,25" />
+</svg>
